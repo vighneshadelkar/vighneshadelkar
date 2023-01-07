@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Vighnesh Adelkar, currently a second year Computer Engineering student at Thadomal Shahani Engineering College.
 <!--
 **vighneshadelkar/vighneshadelkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
