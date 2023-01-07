@@ -2,7 +2,10 @@
 I'm Vighnesh Adelkar, currently a second year Computer Engineering student at Thadomal Shahani Engineering College.
 <br>
 Skills:<br>
-HTML
+<UL>
+  <LI>HTML</LI>
+  </UL>
+
 CSS
 JAVASCRIPT
 C PROGRAMMING
