@@ -1,8 +1,7 @@
 ### Hi there 👋
 <article>I'm Vighnesh Adelkar, currently a second year Computer Engineering student at Thadomal Shahani Engineering College.</article>
 <br>
-<H5>Skills:</H5>
-<br>
+<H3>Skills:</H3>
 <UL>
   <LI>HTML</LI>
   <LI>CSS</LI>
