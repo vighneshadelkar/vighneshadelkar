@@ -1,15 +1,16 @@
 ### Hi there 👋
-I'm Vighnesh Adelkar, currently a second year Computer Engineering student at Thadomal Shahani Engineering College.
+<article>I'm Vighnesh Adelkar, currently a second year Computer Engineering student at Thadomal Shahani Engineering College.</article>
 <br>
-Skills:<br>
+<H5>Skills:</H5>
+<br>
 <UL>
   <LI>HTML</LI>
+  <LI>CSS</LI>
+  <LI>JAVASCRIPT</LI>
+  <LI>BOOTSTRAP</LI>
+  <LI>C PROGRAMMING</LI>
+  <LI>JAVA</LI>
   </UL>
-
-CSS
-JAVASCRIPT
-C PROGRAMMING
-JAVA
 
 <!--
 **vighneshadelkar/vighneshadelkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
