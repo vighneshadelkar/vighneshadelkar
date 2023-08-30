@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi there 👋<br>I'm Vighnesh Adelkar, currently a second year Computer Engineering student at Thadomal Shahani Engineering College.<br>
+Hi there 👋<br>I'm Vighnesh Adelkar, currently a third year Computer Engineering student at Thadomal Shahani Engineering College.<br>
 
 
 ## 🌐 Socials:
